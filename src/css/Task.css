@@ -8,3 +8,21 @@
     color: #fff;
     align-items: center;
 }
+
+.task-title{
+    cursor: pointer;
+}
+.buttons-task{
+    width: 30%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.remove-task-button, .see-task-details-button{
+    background-color: #444;
+    border: none;
+    font-size: 24px;
+    color: chartreuse;
+    margin: 0 5px;
+    cursor: pointer;
+}

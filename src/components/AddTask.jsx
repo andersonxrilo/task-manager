@@ -8,7 +8,7 @@ const AddTask = ({handleTaskAddition}) => {
             setInputData(e.target.value);
     }
     const handleAddTaskClick = () => {
-        if(inputData!=""){
+        if(inputData!==""){
             handleTaskAddition(inputData);
             setInputData("");
         }else{alert("Adicione algum texto pelo ao menos"); }

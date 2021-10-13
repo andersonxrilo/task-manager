@@ -1,3 +1,6 @@
+# About
+This project was based on the [tutorial](https://www.youtube.com/watch?v=ErjWNvP6mko&t=3038s) with some performance tweaks and fixbug. The project was made for react-dom and encompasses the use of routes.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
